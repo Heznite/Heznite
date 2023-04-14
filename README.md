@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Heznite
+- 👋 Hi, I’m Eniola
 - 👀 I’m interested in Solidity and smart chain development
-- 🌱 I’m currently learning flutter
+- 🌱 I currently work with flutter for mobile development
 - 💞️ I’m looking to collaborate on mobile development and blockchain integration.
 - 📫 How to reach me odunolatubosun@gmail.
 
