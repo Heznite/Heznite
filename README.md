@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eniola
-- 👀 I’m interested in Solidity and smart chain development
-- 🌱 I currently work with flutter for mobile development
-- 💞️ I’m looking to collaborate on mobile development and blockchain integration.
+- 👀 I’m interested in Python, Solidity, and smart chain development
+- 🌱 I currently work with Flutter for mobile development and Python for ML
+- 💞️ I’m looking to collaborate on mobile development, data analysis, and software testing using automation.
 - 📫 How to reach me odunolatubosun@gmail.
 
 <!---
